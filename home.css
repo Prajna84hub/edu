@@ -1,0 +1,23 @@
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+    color: darkblue;
+}
+.subhead{
+    color: darkgray;
+    font-family: cursive;
+}
+.box{
+    display: inline-block;
+    height: 120px;
+    width: 270px;
+    border: solid 1px lightgray;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.two{
+    display: inline-block;
+    border: solid 1px lightgray;
+    
+    
+}
